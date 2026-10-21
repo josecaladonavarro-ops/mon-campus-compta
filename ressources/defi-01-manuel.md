@@ -1,9 +1,5 @@
-MANUEL ACADÉMIQUE — DÉFI 01
+# Manuel du module 01
 
-Objectifs : comprendre la comptabilité comme système d'information, l'entité comptable, les actifs, les dettes, les capitaux propres, le bilan et les différences entre résultat et trésorerie.
+La version de référence est désormais publiée dans le campus : [Manuel du module 01](../module-01-tome.html).
 
-Ressource de travail : le manuel complet est fourni en PDF dans le dossier académique du campus. Le cas de référence est Auberge des Cimes SAS, société fictive.
-
-Principaux repères : Actif = capitaux propres + dettes. Une dette financière n'est pas un produit. Un apport en capital n'est pas un chiffre d'affaires. Une créance peut naître avant l'encaissement.
-
-Textes à consulter : ANC, Plan comptable général (version consolidée en vigueur) ; Code de commerce sur Légifrance.
+Les anciens cas indépendants et anciens barèmes ont été remplacés par un seul dossier cumulatif. Ouvrez la page depuis la racine du site pour les formulaires interactifs.

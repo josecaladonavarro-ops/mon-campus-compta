@@ -1,0 +1,12 @@
+{
+  "name": "mon-campus-compta",
+  "private": true,
+  "scripts": {
+    "build": "node build-pages.cjs",
+    "test": "node --test tests/module.test.cjs",
+    "test:browser": "node tests/browser.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}
